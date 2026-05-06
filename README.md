@@ -1,11 +1,11 @@
-# 🚀 LeetCode Practice
+# LeetCode Practice
 
 This repository contains my solutions to LeetCode problems.
 I solve problems regularly to improve my Data Structures & Algorithms skills and prepare for technical interviews.
 
 ---
 
-## 🧠 Topics
+## Topics
 
 * Arrays
 * HashMap
@@ -14,7 +14,7 @@ I solve problems regularly to improve my Data Structures & Algorithms skills and
 
 ---
 
-## 🎯 Goal
+## Goal
 
 * Build strong problem-solving skills
 * Stay consistent with practice
@@ -22,6 +22,6 @@ I solve problems regularly to improve my Data Structures & Algorithms skills and
 
 ---
 
-## ⚡ Note
+## Note
 
 Consistency is key. Solving problems regularly and learning patterns.
