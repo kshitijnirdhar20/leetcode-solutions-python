@@ -10,7 +10,8 @@ I solve problems regularly to improve my Data Structures & Algorithms skills and
 * Arrays
 * HashMap
 * Linked List
-* (More coming...)
+* strings
+* etc
 
 ---
 
