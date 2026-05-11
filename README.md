@@ -8,10 +8,10 @@ I solve problems regularly to improve my Data Structures & Algorithms skills and
 ## Topics
 
 * Arrays
-* HashMap
+* Math
 * Linked List
 * strings
-* etc
+* Sliding Window
 
 ---
 
