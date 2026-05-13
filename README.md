@@ -12,6 +12,7 @@ I solve problems regularly to improve my Data Structures & Algorithms skills and
 * Linked List
 * strings
 * Sliding Window
+* Dynamic Programming
 
 ---
 
