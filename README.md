@@ -13,7 +13,8 @@ I solve problems regularly to improve my Data Structures & Algorithms skills and
 * strings
 * Sliding Window
 * Dynamic Programming
-
+* BackTracking
+* two pointers
 ---
 
 ## Goal
